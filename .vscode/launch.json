@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<studentispring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "pwabd.studentispring.DemoApplication",
+            "projectName": "studentispring",
+            "args": ""
+        }
+    ]
+}
